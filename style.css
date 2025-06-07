@@ -1,0 +1,24 @@
+body {
+  background-color: gold;
+}
+
+p, li {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  background-color: navy;
+  color: white;
+  padding-left: 10px;
+  margin-right: px;
+  border: 1 px solid navy;
+}
+
+.header {
+  background-color: navy;
+  color: white;
+  padding-left: 10px;
+  margin-right: 500px;
+  border: 1 px solid navy;
+}
